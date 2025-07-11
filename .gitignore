@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Env
+myenv
+
+# Environment variables
+.env 
+
+# VSCode
+.vscode/
+
+# PostgreSQL dump files
+*.sql
+
+# Pytest
+.cahce
+
+# Migrations
+*/migrations/__pycache__
+*/migrations/*.py[cod]
